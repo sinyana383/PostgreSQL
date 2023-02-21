@@ -1,0 +1,1 @@
+select person.name, person.age from person where address = 'Kazan';
