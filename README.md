@@ -1,5 +1,5 @@
 # PostgreSQL
-### SQL Boot camp
+### SQL Fundamentals learned on boot camp
 
 - :file_folder: Day00
   - subquery and fundamentals such as select, where, order by, as and case
