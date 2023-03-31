@@ -22,6 +22,6 @@
 - :file_folder: Day09
   - functions and triggers
 - :file_folder: Team00
-  - recursive CTE
+  - recursive CTE(team project done in collaboration with [njohanne](https://github.com/njohanne))
 - :file_folder: Team01
-  - work with anomalies(null data)
+  - work with anomalies(done with [njohanne](https://github.com/njohanne))
