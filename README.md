@@ -22,9 +22,11 @@
 - :file_folder: Day09
   - functions and triggers
 - :file_folder: Team00
-  - recursive CTE(team project done in collaboration with [njohanne](https://github.com/njohanne))
+  - recursive CTE    
+  (team project done in collaboration with [njohanne](https://github.com/njohanne))
 - :file_folder: Team01
-  - work with anomalies(done with [njohanne](https://github.com/njohanne))
+  - work with anomalies.    
+  (done with [njohanne](https://github.com/njohanne))
   
   
 ### SQL Projects to consolidate knowledge after boot camp
