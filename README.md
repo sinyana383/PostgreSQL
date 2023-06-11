@@ -1,5 +1,10 @@
 # PostgreSQL
 
+### SQL Projects to consolidate knowledge after boot camp
+- :mortar_board: [Info21](https://github.com/sinyana383/Info21)
+  - import/export csv, record in loop, regular expressions, execute, cursor, declare.   
+  (done with [njohanne](https://github.com/njohanne))
+
 ### SQL Fundamentals learned on boot camp
 
 - :file_folder: Day00
