@@ -2,7 +2,8 @@
 
 ### SQL Projects to consolidate knowledge after boot camp
 - :mortar_board: [Info21](https://github.com/sinyana383/Info21)
-  - import/export csv, record in loop, regular expressions, execute, cursor, declare.   
+  -  create a database with data about School 21 and write procedures and functions to retrieve information, as well as procedures and triggers to change it  
+  learnt: import/export csv, record in loop, regular expressions, execute, cursor, declare   
   (done with [njohanne](https://github.com/njohanne))
 
 ### SQL Fundamentals learned on boot camp
