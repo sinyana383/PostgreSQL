@@ -6,6 +6,11 @@
   learned: import/export csv, record in loop, regular expressions, execute, cursor, declare   
   (done with [njohanne](https://github.com/njohanne))
 
+- :chart_with_upwards_trend: [ShopAnalytics](https://github.com/sinyana383/ShopAnalytics)
+  - Creating view and material view tables based on information from retail network. Make personal offeres for different aims.
+  learned: indexing, partition by, roles
+  (done with [njohanne](https://github.com/njohanne))
+
 ### SQL Fundamentals learned on boot camp
 
 - :file_folder: Day00
